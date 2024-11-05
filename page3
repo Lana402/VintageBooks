@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VintageBooks</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body>
+    <header>
+    <img src="images/projectlogonobg.png" style= max-width:100% alt="vintagebookslogo">
+    </header>
+    
+<main>
+
+<h1>Locatie</h1>
+
+<p>Wil je ook The Book Exchange bezoeken om tweedehands boeken te kopen of verkopen?
+Hieronder staat het adres.
+</p>
+<p>Kloveniersburgwal 58, 1012CX Amsterdam</p>
+
+
+</main>
+
+<footer>
+Copyright 2024, VintageBooks
+</footer>
+
+
+
+<nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="page2">Books</a></li>
+            <li><a href="page3">Locatie</a></li>
+        </ul>
+    </nav>
+
+
+
+</body>
+</html>

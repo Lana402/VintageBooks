@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VintageBooks</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <header>
+    <img src="images/projectlogonobg.png" style= max-width:100% alt="vintagebookslogo">
+    </header>
+    
+<main>
+<h1>Over het initiatief The Book Exchange</h1>
+<p>
+The Book Exchange is een onafhankelijke tweedehands boekenwinkel die is gespecialiseerd
+in Engelstalige boeken, met focus op literatuur en sociale wetenschappen.
+Ze bieden een breed assortiment aan boeken in goede staat, voor een redelijke prijs.
+</p>
+
+<h2>Mijn ervaring</h2>
+<p>
+
+</p>
+
+
+
+</main>
+
+<footer>
+Copyright 2024, VintageBooks
+</footer>
+
+
+
+<nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="page2">Books</a></li>
+            <li><a href="page3">Locatie</a></li>
+        </ul>
+    </nav>
+
+
+
+</body>
+</html>
