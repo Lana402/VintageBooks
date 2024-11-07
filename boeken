@@ -11,14 +11,14 @@
 <body>
     <header>
         <h1>
-            <img src="images/logonew.png" style="max-width: 100%;" alt="vintagebookslogo">
+            <img src="images/logokleiner.png" style="max-width: 100%;" alt="vintagebookslogo">
         </h1>
     </header>
 
     <main>
         <article>
             <h2>Over het initiatief<br> The Book Exchange</h2>
-            <img src="images/fotovanthebookexchange.png" alt="thebookexchange">
+            <img src="images/thebookexchange.png" alt="thebookexchange">
             <p>
                 The Book Exchange is een onafhankelijke tweedehands boekenwinkel die is gespecialiseerd
                 in Engelstalige boeken, met focus op literatuur en sociale wetenschappen.</p>
@@ -29,7 +29,7 @@
 
         <article>
             <h2>Mijn ervaring</h2>
-            <img src="images/20241105_145618.jpg" alt="thebookexchange">
+            <img src="images/binnenbookexchange.jpg" alt="thebookexchange">
             <p>
                 Toen ik een middag The Book Exchange binnenstapte, voelde het meteen knus aan.
                 Je merkt wel zeker dat deze winkel al jaren bestaat, wat bijdraagt aan zijn charme.
@@ -48,9 +48,9 @@
 
     <nav>
         <ul>
-            <li><a href="index.html"><img src="images/homelogo.png" alt="home"></a></li>
-            <li><a href="boeken"><img src="images/booklogo.png" alt="boeken"></a></li>
-            <li><a href="locatie"><img src="images/pinlogo.png" alt="locatie"></a></li>
+            <li><a href="index.html"><img src="images/iconhome.png" alt="home"></a></li>
+            <li><a href="boeken"><img src="images/iconboek.png" alt="boeken"></a></li>
+            <li><a href="locatie"><img src="images/iconlocatie.png" alt="locatie"></a></li>
         </ul>
     </nav>
 
