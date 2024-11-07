@@ -32,7 +32,7 @@ article {
     font-size: 14px;
     padding-left: 10px;
     padding-right: 10px;
-    margin: 10px;
+    margin: 20px;
     border-radius: 15px;
     border-width: 1.5px;
     border-style: solid;
@@ -53,9 +53,9 @@ p {
     padding: 5px;
     font-size: 13px;
     max-width: 100%;
-    margin: 0;
     line-height: 1.2;
     word-spacing: 1px;
+    margin: 10px;
 }
 
 /*Hubspot*/
