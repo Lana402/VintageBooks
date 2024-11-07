@@ -73,12 +73,10 @@ p {
     position: absolute;
 }
 
-
 .adres {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;
 }
-
 
 nav {
     background-color: #78866c;
@@ -96,6 +94,7 @@ nav ul {
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
+    
 }
 
 a img {
@@ -103,10 +102,3 @@ a img {
     height: 45px;
     object-fit: contain;
 }
-
-
-a:visited {
-    text-decoration: none;
-    color: darkgray;
-}
-

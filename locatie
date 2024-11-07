@@ -15,30 +15,31 @@
             <img src="images/logogroter.png" style="max-width: 100%;" alt="vintagebookslogo">
         </h1>
     </header>
-    
-<main>
-<article>
-<h2>Locatie</h2>
 
-<p>Als je nu benieuwd bent en The Book Exchange ook wilt bezoeken om boeken te kopen of verkopen, dan staat hieronder het adres:</p>
-<p><span class="adres">Kloveniersburgwal 58, 1012 CX Amsterdam</span></p>
-<div class="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4872.037971166819!2d4.894849275583057!3d52.370075747320094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609bf10f65fc5%3A0xb090b02b5dd6f794!2sThe%20Book%20Exchange%20-%20Used%20English-language%20Books!5e0!3m2!1sen!2snl!4v1730855182011!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-</article>
+    <main>
+        <article>
+            <h2>Locatie</h2>
+            <p>Als je nu benieuwd bent en The Book Exchange ook wilt bezoeken om boeken te kopen of verkopen, dan staat
+                hieronder het adres:</p>
+            <p><span class="adres">Kloveniersburgwal 58, 1012 CX Amsterdam</span></p>
+            <div class="map">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4872.037971166819!2d4.894849275583057!3d52.370075747320094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609bf10f65fc5%3A0xb090b02b5dd6f794!2sThe%20Book%20Exchange%20-%20Used%20English-language%20Books!5e0!3m2!1sen!2snl!4v1730855182011!5m2!1sen!2snl"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </article>
 
-</main>
+    </main>
 
-<nav>
-    <ul>
-        <li><a href="index.html"><img src="images/iconhome.png" alt="home"></a></li>
-        <li><a href="boeken"><img src="images/iconboek.png" alt="boeken"></a></li>
-        <li><a href="locatie"><img src="images/iconlocatie.png" alt="locatie"></a></li>
-    </ul>
-</nav>
+    <nav>
+        <ul>
+            <li><a href="index.html"><img src="images/iconhome.png" alt="home"></a></li>
+            <li><a href="boeken"><img src="images/iconboek.png" alt="boeken"></a></li>
+            <li><a href="locatie"><img src="images/iconlocatie.png" alt="locatie"></a></li>
+        </ul>
+    </nav>
 
 
 </body>
 </html>
-
-

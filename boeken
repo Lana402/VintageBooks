@@ -17,34 +17,27 @@
 
     <main>
         <article>
-            <h2>Over het initiatief<br> The Book Exchange</h2>
+            <h2>Over het initiatief<br>The Book Exchange</h2>
             <img src="images/thebookexchange.png" alt="thebookexchange">
-            <p>
-                The Book Exchange is een onafhankelijke tweedehands boekenwinkel die is gespecialiseerd
+            <p> The Book Exchange is een onafhankelijke tweedehands boekenwinkel die is gespecialiseerd
                 in Engelstalige boeken, met focus op literatuur en sociale wetenschappen.</p>
-            <p>
-                Ze bieden een breed assortiment aan boeken in goede staat, voor een redelijke prijs.
+            <p> Ze bieden een breed assortiment aan boeken in goede staat, voor een redelijke prijs.
             </p>
         </article>
 
         <article>
             <h2>Mijn ervaring</h2>
             <img src="images/binnenbookexchange.jpg" alt="thebookexchange">
-            <p>
-                Toen ik een middag The Book Exchange binnenstapte, voelde het meteen knus aan.
+            <p> Toen ik een middag The Book Exchange binnenstapte, voelde het meteen knus aan.
                 Je merkt wel zeker dat deze winkel al jaren bestaat, wat bijdraagt aan zijn charme.
                 Eerst vermoedde ik dat het maar één ruimte met boeken was, maar ik kwam er snel achter dat er wel vier
-                verschillende verdiepingen zijn.
-            </p>
-            <p>
-                De winkel bevat boeken van allerlei genres: van literatuur, geschiedenis, misdaad en fictie tot
+                verschillende verdiepingen zijn.</p>
+            <p> De winkel bevat boeken van allerlei genres: van literatuur, geschiedenis, misdaad en fictie tot
                 non-fictie, muziek, wetenschap, stripboeken en meer.
                 Ik heb zeker een half uur rondgelopen. </p>
-            <p>Hoewel ik deze keer niks had gekocht, zou ik zeker nog een keer terug willen komen.
-            </p>
+            <p>Hoewel ik deze keer niks had gekocht, zou ik zeker nog een keer terug willen komen.</p>
         </article>
     </main>
-
 
     <nav>
         <ul>
@@ -55,5 +48,4 @@
     </nav>
 
 </body>
-
 </html>
